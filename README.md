@@ -10,14 +10,14 @@ Este proyecto es una actividad grupal de **Introducción a la Programación Cien
 El repositorio está organizado en tres carpetas principales, separando los datos de entrada de los scripts de análisis y las figuras resultantes:
 1. **Datos/**:
 2. **Gráficos/**: Contiene los ***scripts* de análisis de cada gráfico**.
-    - Histograma:
+    - Histograma: Contiene el código R (histograma.R) para el análisis exploratorio de la distribución de edades de los participantes, diferenciadas por sexo, mediante un histograma comparativo.
     - Gráfico de barras:
     - Boxplot: Contiene el código R (*generar_boxplot.R*) para el análisis exploratorio de la distribución de datos del nivel de glucosa en función del tratamiento recibido, por sexo.
     - Mapa de calor:
     - Diagrama de puntos:
     - 
 3. **Figuras generadas/**: Contiene las figuras PNG de cada gráfico
-    - Histograma:
+    - Histograma: Figura histograma PNG resultante (*histograma.PNG*)
     - Gráfico de barras:
     - Boxplot: Figura Boxplot PNG resultante (*RBoxPlot_julia.PNG*)
     - Mapa de calor:
