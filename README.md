@@ -14,4 +14,4 @@ El repositorio está organizado para separar los datos de entrada, el código de
 * gráfico de barras/:
 * mapa de color/:
 * diagrama de puntos/:
-* Graficos/: Contiene las figuras resultantes en formato PNG de cada script
+* Gráficos/: Contiene las figuras resultantes en formato PNG de cada script
