@@ -7,12 +7,19 @@ Este proyecto es una actividad grupal de **Introducción a la Programación Cien
 * Analizar datos de expresión génica
 * Generar diversas visualizaciones gráficas para la exploracion de datos
 ## Estructura del Repositorio
-El repositorio está organizado en dos carpetas principales, separando los datos de entrada de los scripts de análisis y las figuras resultantes:
+El repositorio está organizado en tres carpetas principales, separando los datos de entrada de los scripts de análisis y las figuras resultantes:
 1. **Datos/**:
-2. **Gráficos/**: Contiene tanto los ***scripts* de análisis como las figuras resultantes**.
-    - Histograma/:
-    - Gráfico de barras/:
-    - Boxplot/: Contiene el código R (*generar_boxplot.R*) para el análisis exploratorio de la distribución de datos del nivel de glucosa en función del tratamiento recibido, por sexo. También contiene la figura PNG resultante (*RBoxPlot_julia.PNG*).
-    - Mapa de calor/:
-    - Diagrama de puntos/:
+2. **Gráficos/**: Contiene los ***scripts* de análisis de cada gráfico**.
+    - Histograma:
+    - Gráfico de barras:
+    - Boxplot: Contiene el código R (*generar_boxplot.R*) para el análisis exploratorio de la distribución de datos del nivel de glucosa en función del tratamiento recibido, por sexo.
+    - Mapa de calor:
+    - Diagrama de puntos:
+    - 
+3. **Figuras generadas/**
+    - Histograma:
+    - Gráfico de barras:
+    - Boxplot: Figura Boxplot PNG resultante (*RBoxPlot_julia.PNG*
+    - Mapa de calor:
+    - Diagrama de puntos:
     - 
