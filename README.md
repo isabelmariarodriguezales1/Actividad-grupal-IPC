@@ -21,5 +21,5 @@ El repositorio está organizado en tres carpetas principales, separando los dato
     - Gráfico de barras:
     - Boxplot: Figura Boxplot PNG resultante (*RBoxPlot_julia.PNG*)
     - Mapa de calor:
-    - Diagrama de puntos:
+    - Diagrama de puntos: Figura del Diagrama de Puntos PNG resultante (*DPuntos.PNG*)
     - 
