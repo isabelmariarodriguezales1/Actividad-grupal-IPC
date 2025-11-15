@@ -11,7 +11,7 @@ El repositorio está organizado en tres carpetas principales, separando los dato
 1. **Datos/**:
 2. **Gráficos/**: Contiene los ***scripts* de análisis de cada gráfico**.
     - Histograma: Contiene el código R (histograma.R) para el análisis exploratorio de la distribución de edades de los participantes, diferenciadas por sexo, mediante un histograma comparativo.
-    - Gráfico de barras:
+    - Gráfico de barras: Contiene el código R (barras.R) para la visualización de la cuantificación de mutaciones para los diferentes tipos de agentes mutagenos. 
     - Boxplot: Contiene el código R (*generar_boxplot.R*) para el análisis exploratorio de la distribución de datos del nivel de glucosa en función del tratamiento recibido, por sexo.
     - Mapa de calor: Contiene el código R (*Heatmap.R*) usado para visualizar en un mapa de calor la relación entre los valores fisico-químicos (bioquímica) y los genes implicados.
     - Diagrama de puntos: Contiene el código R (*DPuntos.R*) utilizado para generar un diagrama de puntos de la variable edad. Este gráfico representa de forma individual la edad de cada participante, permitiendo visualizar la dispersión y variabilidad de esta variable dentro del conjunto de datos del estudio.
