@@ -22,4 +22,4 @@ El repositorio está organizado en tres carpetas principales, separando los dato
     - Boxplot: Figura Boxplot PNG resultante (*RBoxPlot_julia.PNG*)
     - Mapa de calor: Figura PNG del mapa de calor resultante (*Heatmap.R*)
     - Diagrama de puntos: Figura del Diagrama de Puntos PNG resultante (*DPuntos.PNG*)
-    - 
+    - Pie Chart: Figura del Diagrama Pie Chart PNG resultante (*PieChart.PNG*)
