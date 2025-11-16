@@ -18,7 +18,7 @@ El repositorio está organizado en tres carpetas principales, separando los dato
     - 
 3. **Figuras generadas/**: Contiene las figuras PNG de cada gráfico
     - Histograma: Figura histograma PNG resultante (*histograma.PNG*)
-    - Gráfico de barras:
+    - Gráfico de barras: Gráfico de barras con PNG (*Graficodebarras.PNG*)
     - Boxplot: Figura Boxplot PNG resultante (*RBoxPlot_julia.PNG*)
     - Mapa de calor: Figura PNG del mapa de calor resultante (*Heatmap.R*)
     - Diagrama de puntos: Figura del Diagrama de Puntos PNG resultante (*DPuntos.PNG*)
