@@ -8,7 +8,7 @@ Este proyecto es una actividad grupal de **Introducción a la Programación Cien
 * Generar diversas visualizaciones gráficas para la exploracion de datos
 ## Estructura del Repositorio
 El repositorio está organizado en tres carpetas principales, separando los datos de entrada de los scripts de análisis y las figuras resultantes:
-1. **Datos/**:
+1. **Datos/**: Contiene diferentes datos en formato .csv que se ha utilizado para elaborar los gráficos mencionados en este repositorio
 2. **Gráficos/**: Contiene los ***scripts* de análisis de cada gráfico**.
     - Histograma: Contiene el código R (histograma.R) para el análisis exploratorio de la distribución de edades de los participantes, diferenciadas por sexo, mediante un histograma comparativo.
     - Gráfico de barras: Contiene el código R (barras.R) para la visualización de la cuantificación de mutaciones para los diferentes tipos de agentes mutagenos. 
