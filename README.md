@@ -15,7 +15,7 @@ El repositorio está organizado en tres carpetas principales, separando los dato
     - Boxplot: Contiene el código R (*generar_boxplot.R*) para el análisis exploratorio de la distribución de datos del nivel de glucosa en función del tratamiento recibido, por sexo.
     - Mapa de calor: Contiene el código R (*Heatmap.R*) usado para visualizar en un mapa de calor la relación entre los valores fisico-químicos (bioquímica) y los genes implicados.
     - Diagrama de puntos: Contiene el código R (*DPuntos.R*) utilizado para generar un diagrama de puntos de la variable edad. Este gráfico representa de forma individual la edad de cada participante, permitiendo visualizar la dispersión y variabilidad de esta variable dentro del conjunto de datos del estudio.
-    - 
+    - Pie Chart: contiene el código R (*PieChart.R*) utilizado para obtener un diagrama de tipo Pie Chart en el que se puede visualizar la distribución proporcional de los distintos tipos de tumor. Esto permite apreciar de un vistazo cuáles son los más representados en el conjunto de datos y facilita la interpretación de la prevalencia relativa de cada categoría dentro del estudio.
 3. **Figuras generadas/**: Contiene las figuras PNG de cada gráfico
     - Histograma: Figura histograma PNG resultante (*histograma.PNG*)
     - Gráfico de barras: Gráfico de barras con PNG (*Graficodebarras.PNG*)
