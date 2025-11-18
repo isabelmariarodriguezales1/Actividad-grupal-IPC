@@ -1,6 +1,7 @@
 # Actividad-grupal-IPC
 Este proyecto es una actividad grupal de **Introducción a la Programación Científica** para familiarizarnos con las herramientas de control de versiones **Git y GitHub** aplicadas a un caso práctico de bioinformática.
 ## Participación de cada coautor
+   - Irene Sales Ibáñez: Script histograma.R, figura histograma.PNG y contribuciones al README.md.
    - Isabel María Rodríguez Alés: Script PieChart.R, Figura PieChart.png y contribuciones al README.md.
    - Iván Maldonado Pérez: Adición de los archivos de datos utilizados en los scripts para obtener los gráficos y contribuciones al README.md.
    - Julián Soriano Valero: script Heatmap.R, figura Heatmap.png y contribuciones al README.md.
