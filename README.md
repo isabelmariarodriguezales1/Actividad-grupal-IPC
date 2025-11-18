@@ -5,6 +5,7 @@ Este proyecto es una actividad grupal de **Introducción a la Programación Cien
    - Isabel María Rodríguez Alés: Script PieChart.R, Figura PieChart.png y contribuciones al README.md.
    - Iván Maldonado Pérez: Adición de los archivos de datos utilizados en los scripts para obtener los gráficos y contribuciones al README.md.
    - Julián Soriano Valero: script Heatmap.R, figura Heatmap.png y contribuciones al README.md.
+   - Jaime Hernán Gil: Script DPuntos.R, figura DPuntos.png y contribuciones al README.md.
 ## Objetivos del Proyecto
 * Crear y gestionar un repositorio compartido en GitHub
 * Fomentar la colaboración segura usando ramas (branching)
